@@ -2,6 +2,10 @@
 import os
 import sys
 
+def controlDerniereTache():
+	print("\t\tLa prochaine Tache devra se réaliser le **/**/** ")
+	print("\t\tEt cela devra etre : *****")
+
 def menu():
 	os.system("cls")
 	print("\t\t*********************************************")
@@ -9,10 +13,7 @@ def menu():
 	print("\t\t*********************************************")
 	print("\n")
 	print("\n")
-	print("\n")
-	print("\t\tLa prochaine Tache devra se réaliser le **/**/** ")
-	print("\t\tEt cela devra etre : *****")
-	print("\n")
+	controlDerniereTache()
 	print("\n")
 	print("\n")
 	print("\t\tQue voulez faire ?")
