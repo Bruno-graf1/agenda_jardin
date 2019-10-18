@@ -1,0 +1,16 @@
+#coding:utf-8
+
+print("\t\t*********************************************")
+print("\t\t***************AGENDA JARDIN*****************")
+print("\t\t*********************************************")
+print("\n")
+print("\n")
+print("\n")
+print("\t\tLa prochaine Tache devra se réaliser le **/**/** ")
+print("\t\tEt cela devra etre : *****")
+print("\n")
+print("\n")
+print("\n")
+print("\t\tQue voulez faire ?")
+print("\t\tVoir toutes les taches : taper 1")
+print("\t\tSupprimer la derniere tache : taper :2")
